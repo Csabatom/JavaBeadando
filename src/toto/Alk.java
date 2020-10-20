@@ -1,7 +1,7 @@
-package hu.petrik;
+package toto;
 
-public class Main {
+public class Alk {
     public static void main(String[] args) {
-	    
+
     }
 }
